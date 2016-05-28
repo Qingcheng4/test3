@@ -1,0 +1,82 @@
+html,body,div,span,footer,header,menu,{margin:0;padding:0;border:0;font: normal 100%;font-family:"Microsoft YaHei", "微软雅黑";color: white;vertical-align:baseline;}
+footer,header,{display: block;clear: none;}
+html{
+    margin:0 auto;
+}
+body {
+    margin:0 auto;
+
+}
+.topbar{
+    height: 80px;
+    margin:0 auto;
+    width:100%;
+    background-color: #22292c;
+}
+.back{
+    margin: 0 auto;
+    padding: 3% 1% 1% 2%;
+    float: left;
+    position:relative;
+    width: 30%;
+}
+.menu{
+    margin: 0 auto;
+    position:relative;
+    float: right;
+    padding: 5% 7% 0 0;
+    width: 2%;
+}
+.title{
+    float: left;
+    position:relative;
+    /*text-align: center;*/
+    font-size: 2em;
+    width: 10%;
+    padding: 3% 10% 2% 10%;
+    color: white;
+}
+.title>span{
+    width: 10%;
+}
+.content{
+    background-color: #68cdd5;
+}
+.content-back{
+    width: 10%;
+    padding: 3% 2% 3% 3%;
+    position:relative;
+}
+.content-logo{
+    width: 10%;
+    position:relative;
+    padding: 5% 10% 10% 30% ;
+}
+.text1{
+    width: 71%;
+    position:relative;
+    font-size: 30px;
+    padding: 7% 15% 5% 15%;
+    color: white;
+}
+.footer{
+    background-color: #68cdd5;
+    clear: both;
+    width: 100%;
+    padding-bottom: 52.48%;
+    font-size:  1.5em;;
+    color: white;
+}
+.footer-left{
+    float: left;
+    position:relative;
+    width: 25%;
+    padding: 0 12.5%;
+}
+.footer-right{
+    float: right;
+    position:relative;
+    width: 25%;
+    padding: 0 12.5%;
+
+}
